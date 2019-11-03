@@ -3,7 +3,7 @@ body {
 	margin: 5%;
 }
 img,
-.list.woods {
+.cont.woods ul {
 	border: 7px solid black;
 	margin: 10px;
 	border-radius: 0 40px 40px 40px;
