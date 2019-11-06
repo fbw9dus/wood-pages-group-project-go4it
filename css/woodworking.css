@@ -16,3 +16,8 @@ body {
 	background: whitesmoke;
 	padding: 25px;
 }
+
+.cont.woods a {
+	text-decoration: none;
+	color: brown;
+}
