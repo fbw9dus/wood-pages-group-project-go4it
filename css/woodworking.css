@@ -3,21 +3,22 @@ body {
 	margin: 5%;
 }
 .cont.woods img,
-.cont.woods ul {
+.cont.woods ul,
+.cont.woods .link {
 	border: 7px solid black;
 	margin: 10px;
 	border-radius: 0 40px 40px 40px;
 	background: whitesmoke;
 }
-.cont.tools {
-	border: 7px solid rgb(58, 81, 102);
-	margin: 10px;
-	border-radius: 40px 40px 0 40px;
-	background: whitesmoke;
+.cont.woods .link {
 	padding: 25px;
 }
 
 .cont.woods a {
 	text-decoration: none;
 	color: brown;
+}
+
+.cont.woods img {
+	border: 7px solid rgb(54, 54, 78);
 }
